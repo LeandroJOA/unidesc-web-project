@@ -1,9 +1,15 @@
+html{
+  height: 100%;
+}
+
 body {
-    background: linear-gradient(180deg, grey 66.5%, white 33.5%);
+    min-height: 100%;
+    margin: 5px;
+    background: linear-gradient(180deg, grey 50%, white 50%);
 }
 
 .container {
-    background: linear-gradient(180deg, white 72%, grey 28%);
+    background: linear-gradient(180deg, white 75%, grey 25%);
 }
 
 footer {
